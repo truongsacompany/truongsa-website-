@@ -1149,9 +1149,27 @@ input::-ms-input-placeholder {
 }
 
 
+/* modify */
 
+.suachuadiennuoc {
+    height: 300px;
+    background: url(../images/suachuadiennuoc.jpg) no-repeat 60% 60%;
+}
 
+.suachuabaotrithangmay {
+    height: 300px;
+    background: url(../images/suachuabaotrithangmay.jpg) no-repeat 60% 60%;
+}
 
+.suachuabaotrimaylanh {
+    height: 300px;
+    background: url(../images/suachuabaotrimaylanh.jpg) no-repeat 60% 60%;
+}
+
+.vesinhnhaocongnghiep {
+    height: 300px;
+    background: url(../images/vesinhnhaocongnghiep.jpg) no-repeat 60% 60%;  
+}
 
 
 
