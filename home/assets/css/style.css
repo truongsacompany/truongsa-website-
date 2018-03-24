@@ -272,7 +272,7 @@ ul{
     margin-bottom: 4rem;
 }
 .overlay {
-    background-color: rgba(76, 61, 114, 0.5);
+    background-color: rgba(76, 61, 114, 0.1);
     width: 100%;
     height: 670px;
 }
@@ -545,9 +545,9 @@ input::-ms-input-placeholder {
 .main_menu_bg .navbar {}
 
 .main_menu_bg .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
-    color: #00e0d0;
+    color: #e0c600;
     padding-bottom: 22px;
-    border-bottom: 1px solid #00e0d0;
+    border-bottom: 1px solid #e0c600;
     background: transparent;
 
 }
@@ -590,7 +590,7 @@ input::-ms-input-placeholder {
 
 /*home section*/
 .home{
-    background: url(../images/homebg.jpg) no-repeat 100% 100%;
+    background: url(../images/sua-chua-dien-nha-tphcm.jpg) no-repeat 100% 10%;
     background-size: cover;
 }
 
@@ -1151,25 +1151,36 @@ input::-ms-input-placeholder {
 
 /* modify */
 
-.suachuadiennuoc {
+.sua-chua-dien-nuoc {
     height: 300px;
-    background: url(../images/suachuadiennuoc.jpg) no-repeat 60% 60%;
+    background: url(../images/sua-chua-dien-nuoc.jpg) no-repeat 60% 60%;
 }
 
-.suachuabaotrithangmay {
+.sua-chua-bao-tri-thang-may {
     height: 300px;
-    background: url(../images/suachuabaotrithangmay.jpg) no-repeat 60% 60%;
+    background: url(../images/sua-chua-bao-tri-thang-may.jpg) no-repeat 60% 60%;
 }
 
-.suachuabaotrimaylanh {
+.sua-chua-bao-tri-may-lanh {
     height: 300px;
-    background: url(../images/suachuabaotrimaylanh.jpg) no-repeat 60% 60%;
+    background: url(../images/sua-chua-bao-tri-may-lanh.jpg) no-repeat 60% 60%;
 }
 
-.vesinhnhaocongnghiep {
+.ve-sinh-nha-o-cong-nghiep {
     height: 300px;
-    background: url(../images/vesinhnhaocongnghiep.jpg) no-repeat 60% 60%;  
+    background: url(../images/ve-sinh-nha-o-cong-nghiep.jpg) no-repeat 60% 60%;  
 }
+
+.linh-kien-dien-tu {
+    height: 300px;
+    background: url(../images/linh-kien-dien-tu.jpg) no-repeat 60% 60%;  
+}
+
+.xay-dung-dan-dung {
+    height: 300px;
+    background: url(../images/xay-dung-dan-dung.jpg) no-repeat 60% 60%;  
+}
+
 
 
 
