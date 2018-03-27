@@ -25,6 +25,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 // redirect home
 app.use('/home', express.static(path.join(__dirname, '/home')));
 
+app.use('/layout', express.static(path.join(__dirname, '/layout')));
+
 app.use('/', index);
 app.use('/users', users);
 
